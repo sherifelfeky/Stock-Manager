@@ -71,7 +71,7 @@ class StockPanel
   
    
     String[] GoodsTypeEnumArray = {"Dairy", "Meat","Fruit","Vegetable","Cleaning", "Snacks"  };
-    String[] UnitsArray = {"KG", "Litre","Bottle", "Pack", "Bag" };
+    String[] UnitsArray = {"KG", "Litre","Bottle", "Pack", "Bag","Box" };
     String[] ProductNames = {"Lamar", "Maraey", "Orange", "Toamto"};
     
     
